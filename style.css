@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(168, 167, 171);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.box-kontakt{
+    background-color: rgb(104, 100, 120);
+    height: 320px;
+    width: 350px;
+    font-size: 20px;
+    
+}
+
+.kontakt{
+    list-style-type: none;
+    padding-left: 10px;
+
+}
+
+
+.picture{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    
+}
+
+.email {
+    color: black;
+}
+
+hr{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+
+
+.vzdělání {
+    border-collapse: collapse;
+    
+  }
+  
+  td {
+    padding: 5px 8px;
+    border: 1px solid black;
+  }
+
+  th{
+    padding: 5px 8px;
+    border: 1px solid black;
+  }
+
+  h2{
+    padding: 10px;
+    
+  }
+
+  .koníčky{
+    background-color: rgb(104, 100, 120);
+    padding-bottom: 5px;
+  }
